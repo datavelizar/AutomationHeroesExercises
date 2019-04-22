@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. PrintHellowWorld", "01. PrintHellowWorld\03. PrintHellowWorld.csproj", "{9EAC6C67-8582-4E76-ADE3-A98F13C92B75}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. PrintHellowWorld", "03. PrintHellowWorld\03. PrintHellowWorld.csproj", "{9EAC6C67-8582-4E76-ADE3-A98F13C92B75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. PrintMyName", "02. PrintMyName\04. PrintMyName.csproj", "{01E94C1D-B272-4671-AB26-47F5FA46EF93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. PrintMyName", "04. PrintMyName\04. PrintMyName.csproj", "{01E94C1D-B272-4671-AB26-47F5FA46EF93}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. SquareRootOf12345", "05. SquareRootOf12345\05. SquareRootOf12345.csproj", "{1FA69E63-936C-4FF6-847A-700624EE1941}"
 EndProject
@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. OutputCurrentDateAndTim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. YourAgeAfter10Years", "10.  YourAgeAfter10Years\10. YourAgeAfter10Years.csproj", "{BA10E399-BB69-4649-A925-40DC6FA49F44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. First1000Memebers", "11. First1000Memebers\11. First1000Memebers.csproj", "{DD7A2DED-F3D4-471F-A931-DF20DD72C46A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. First1000Members", "11. First1000Members\11. First1000Members.csproj", "{DD7A2DED-F3D4-471F-A931-DF20DD72C46A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
